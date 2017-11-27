@@ -6,14 +6,14 @@
 /** BC0DE.NET - NAONLAH.NET - WingKocoli **/
 
 const Client = require('instagram-private-api').V1;
-const delay = require('delay');
+const delay = require( 'delay');
 const chalk = require('chalk');
 const rp = require('request-promise');
 const _ = require('lodash');
 
 const User = {
-    username: 'lexapbriantiy',
-    password: 'okeoke12'
+    username: ( 'lexapbriantiy' ),
+    password:  ( 'okeoke12' )
 }
 
 const TargetUsername = 'lexapebriatys';
