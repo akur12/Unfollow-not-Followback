@@ -13,7 +13,7 @@ const _ = require('lodash');
 
 const User = {
     username: 'lexapbriantiy',
-    password: 'adi.kau1'
+    password: 'okeoke12'
 }
 
 const TargetUsername = 'lexapebriatys';
